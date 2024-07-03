@@ -1,0 +1,29 @@
+"Layer0"
+{
+	"shader"	"vr_complex.vfx"
+	"g_nScaleTexCoordUByModelScaleAxis"	"0"
+	"g_nScaleTexCoordVByModelScaleAxis"	"0"
+	"g_flModelTintAmount"	"1"
+	"g_flMetalness"	"0"
+	"g_flAmbientOcclusionDirectDiffuse"	"0"
+	"g_flAmbientOcclusionDirectSpecular"	"0"
+	"TextureAmbientOcclusion"	"[1.000000 1.000000 1.000000 0.000000]"
+	"g_vColorTint"	"[1.000000 1.000000 1.000000 0.000000]"
+	"g_vTexCoordOffset"	"[0.000000 0.000000 0.000000 0.000000]"
+	"g_vTexCoordScale"	"[1.000000 1.000000 0.000000 0.000000]"
+	"g_vTexCoordScrollSpeed"	"[0.000000 0.000000 0.000000 0.000000]"
+	"TextureNormal"	"models/architecture/backdrop/backdrop_building_project02a_normal.png"
+	"TextureRoughness"	"models/architecture/backdrop/backdrop_building_project02a_b19242d6_rough.png"
+	"TextureColor"	"models/architecture/backdrop/backdrop_building_project02a_color.png"
+	"TextureMetalness"	"models/architecture/backdrop/backdrop_building_project02a_9aef6a68_metal.png"
+	"VRF Original Textures"
+	{
+		"g_tAmbientOcclusion"	"models/architecture/backdrop/backdrop_building_project02a_vmat_g_tambientocclusion_9782fd5c.vtex"
+		"g_tNormal"	"models/architecture/backdrop/backdrop_building_project02a_normal_tga_b19242d6.vtex"
+		"g_tColor"	"models/architecture/backdrop/backdrop_building_project02a_color_tga_9aef6a68.vtex"
+	}
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"	"world.concrete"
+	}
+}
